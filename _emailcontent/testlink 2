@@ -4,5 +4,4 @@ weblink: http://thesetup.hu
 image: https://source.unsplash.com/random/600x400
 ---
 
-Ez lesz a teszt link teszt szövege és már az is
-lol [I'm an inline-style link](https://www.google.com)
+Ez lesz a teszt link teszt szövege és már az is [I'm an inline-style link](https://www.google.com)
