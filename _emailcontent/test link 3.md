@@ -1,7 +1,7 @@
 ---
 title: test link 3
 weblink: http://thesetup.hu
-image: https://via.placeholder.com/600x400
+image: https://source.unsplash.com/random/600x450
 issue: 42
 ---
 
